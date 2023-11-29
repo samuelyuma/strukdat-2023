@@ -1,3 +1,12 @@
+/*
+    Kelompok 3
+    Anggota:
+    1. Steven Figo - 5027221021
+    2. Samuel Yuma Krismata - 5027221029
+    3. Gavriel Pramuda Kurniaadi - 5027221031
+    4. Jody Hezekiah T. S. - 5027221050
+*/
+
 #include <iostream>
 #include <vector>
 #include <queue>
